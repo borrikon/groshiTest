@@ -1,2 +1,0 @@
-# groshiTest
-test app
